@@ -135,7 +135,7 @@ Social Impact Initiatives
 - Implementation of social impact programs to leverage Digital Rupee for financial education and inclusion.
 - Collaborations with NGOs & other organizations to address real-world challenges.
 
- ### SUPPORT AND INQUIRY
+ ### SUPPORT AND ENQUIRY
 CONTACT: SUPPORT@DIGITALRUPEE.IO
 
 YOU CAN ALSO REACHOUT TO US THROUGH
@@ -147,7 +147,7 @@ YOUTUBE: https://www.youtube.com/channel/UC8UvdV-F1Kz2KevAdgzaHtQ
 
 TWITTER: https://twitter.com/DigitalRupee0
 
-THANK YOU FOR GOING THROUGH DIGITALRUPEE README FILE.
+THANK YOU FOR GOING THROUGH DIGITAL RUPEE README FILE.
 
 
 
