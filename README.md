@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Digitalrupee/DigitalRupee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-##ABOUT DIGITAL RUPEE###
 Digital Rupee In the ever-evolving landscape of digital currencies, 
 the Digital Rupee Token emerges as a groundbreaking initiative, designed to revolutionize the way we transact, invest, and engage with the global financial ecosystem. 
 As a decentralized digital currency built on the Binance Smart Chain (BSC) Digital Rupee embodies the vision of creating a stable, secure, 
@@ -14,6 +10,11 @@ This innovative model ensures stability and long-term predictability,
 eliminating the need for additional minting and establishing a fixed and transparent token supply making Rupee a reliable digital currency for payment
 The Digital Rupee envisions a future where decentralized finance (DeFi) and blockchain technology catalyze financial inclusion on a global scale By providing a stable and efficient digital currency, 
 we aim to empower individuals, businesses, and communities to participate in the new era of borderless, accessible, and transparent finance
+
+<!--
+**Digitalrupee/DigitalRupee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##ABOUT DIGITAL RUPEE###
+
  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
