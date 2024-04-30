@@ -13,6 +13,7 @@ we aim to empower individuals, businesses, and communities to participate in the
 
 ### CONTRACT
 0x8C2d711f69ade40c5d3ABFE36260969D15305C64
+
 BSC SCAN LINK: https://bscscan.com/token/0x8C2d711f69ade40c5d3ABFE36260969D15305C64
 
 ### FEATURES
@@ -139,8 +140,11 @@ CONTACT: SUPPORT@DIGITALRUPEE.IO
 
 YOU CAN ALSO REACHOUT TO US THROUGH
 WEBSITE: https://digitalrupee.io/
+
 INSTAGRAM: https://www.instagram.com/digitalrupee.io/
+
 YOUTUBE: https://www.youtube.com/channel/UC8UvdV-F1Kz2KevAdgzaHtQ
+
 TWITTER: https://twitter.com/DigitalRupee0
 
 THANK YOU FOR GOING THROUGH DIGITALRUPEE README FILE.
