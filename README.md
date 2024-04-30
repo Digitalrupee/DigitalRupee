@@ -34,8 +34,121 @@ Digital Rupee employs a decentralized governance model, giving the community a d
 Transparency
 Digital Rupee emphasizes transparency in its allocation breakdown, use of funds, and overall governance. The white paper and regular updates provide participants with clear insights into the project's progress, fostering trust and accountability.
 
-### SUPPORT AND INQ.0
-CONTACT SUPPORT@DIGITALRUPEE.IO
+
+### ROADMAP FOR DIGITAL RUPEE
+2023 DECEMBER
+Project Inception
+-Formulation of the Digital Rupee concept, outlining key features and tokenomics.
+- Initial team formation, partnerships, & early community engagement.
+
+Q2
+2024 JAN-FEB
+
+Smart Contract Development
+
+- Start development of smart contracts on  (BSC).
+-Security audits and testing for robust functionality with team finance & introduction to marketplace for rupee token ecosystem.
+
+2024 MARCH
+
+White Paper & Website Release:
+
+-finalize logo
+-Comprehensive publication of the Digital Rupee white paper detailing the project's vision, mission, & technical aspects.
+-Initial feedback & discussions with the community.
+
+2024 APRIL
+
+Token genration Event:
+
+-Deployment (TGE) and implementation of smart contract on binance smart contract chain.
+
+Q3
+2024 MAY
+
+PRE-IEO Token Sale Launch
+
+-Commencement of the Digital Rupee Token Sale, introducing the initial token supply.
+-Collaboration with reputable launchpads for broad accessibility.
+
+partnerships.
+
+Q4
+2024 JUNE
+
+Development and Launch
+
+-Launch of Digital Rupee
+-Official launch of Digital Rupee, marking the availability of the stable & population-backed digital currency.
+- Integration with early adopters & strategic partnerships.
+
+Q1
+2024 AUGUST
+
+Community Governance Activation
+
+- Implementation of decentralized governance mechanisms.
+- Community-driven decision making processes initiated.
+-Continuous improvement of the Digital Rupee protocol based on community feedback and technological advancements.
+- Regular updates to the marketplace, governance mechanisms, and overall user experience.
+
+Q4
+2024 SEPTEMBER
+
+Digital Rupee Marketplace APP
+
+-Introduction of marketplace application through project report for Digital Rupee Marketplace.
+-Community feedback collection for interative improvements.
+
+Q4
+2024 OCTOBER & BEYOND
+
+Global Adoption Initiatives
+
+- Marketing campaigns & outreach to promote Digital Rupee on a global scale.
+- Expansion of strategic partnerships for increased utility.
+-Create a market for space in globe for marketplace application after introduction & before its launch date.
+
+Q4
+2024 NOVEMBER
+
+Digital Rupee marketplace app development
+
+-Front-End Development Implementation.
+-Integrate navigation, and basic features.
+-Backend development and community Prepare marketing materials for the app launch.
+
+Q2
+2025 JANUARY
+
+Cross-Chain Compatibility
+
+- Exploration of cross-chain compatibility to broaden the reach of Digital Rupee.
+- Research and potential partnerships with emerging blockchain platforms.
+
+Q5
+2025 & BEYOND
+
+Social Impact Initiatives
+
+- Implementation of social impact programs to leverage Digital Rupee for financial education and inclusion.
+- Collaborations with NGOs & other organizations to address real-world challenges.
+
+ ### SUPPORT AND INQUIRY
+CONTACT: SUPPORT@DIGITALRUPEE.IO
+
+YOU CAN ALSO REACHOUT TO US THROUGH
+WEBSITE: https://digitalrupee.io/
+INSTAGRAM: https://www.instagram.com/digitalrupee.io/
+YOUTUBE: https://www.youtube.com/channel/UC8UvdV-F1Kz2KevAdgzaHtQ
+TWITTER: https://twitter.com/DigitalRupee0
+
+THANK YOU FOR GOING THROUGH DIGITALRUPEE README FILE.
+
+
+
+
+
 
 
 
