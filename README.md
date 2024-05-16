@@ -65,7 +65,7 @@ Token genration Event:
 -Deployment (TGE) and implementation of smart contract on binance smart contract chain.
 
 Q3
-2024 MAY
+2024 JUNE
 
 PRE-IEO Token Sale Launch
 
@@ -75,7 +75,7 @@ PRE-IEO Token Sale Launch
 partnerships.
 
 Q4
-2024 JUNE
+2024 JULY
 
 Development and Launch
 
