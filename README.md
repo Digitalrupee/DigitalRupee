@@ -58,14 +58,14 @@ White Paper & Website Release:
 -Comprehensive publication of the Digital Rupee white paper detailing the project's vision, mission, & technical aspects.
 -Initial feedback & discussions with the community.
 
-2024 APRIL
+2024 APRIL-MAY
 
 Token genration Event:
 
 -Deployment (TGE) and implementation of smart contract on binance smart contract chain.
 
 Q3
-2024 JUNE
+2024 AUGUEST-SEPTEMBER
 
 PRE-IEO Token Sale Launch
 
@@ -75,7 +75,7 @@ PRE-IEO Token Sale Launch
 partnerships.
 
 Q4
-2024 JULY
+2024 OCTOBER
 
 Development and Launch
 
@@ -84,7 +84,7 @@ Development and Launch
 - Integration with early adopters & strategic partnerships.
 
 Q1
-2024 AUGUST
+2024 NOVEMBER
 
 Community Governance Activation
 
@@ -94,7 +94,7 @@ Community Governance Activation
 - Regular updates to the marketplace, governance mechanisms, and overall user experience.
 
 Q4
-2024 SEPTEMBER
+2024 DECEMBER
 
 Digital Rupee Marketplace APP
 
@@ -120,7 +120,7 @@ Digital Rupee marketplace app development
 -Backend development and community Prepare marketing materials for the app launch.
 
 Q2
-2025 JANUARY
+2025 JAN & BEYOND
 
 Cross-Chain Compatibility
 
@@ -140,6 +140,8 @@ Social Impact Initiatives
 
  ### SUPPORT AND INQUIRY
 CONTACT: SUPPORT@DIGITALRUPEE.IO
+
+COMMUNITY SUPPORT : https://t.me/rupeetokencommunity
 
 YOU CAN ALSO REACHOUT TO US THROUGH
 WEBSITE: https://digitalrupee.io/
